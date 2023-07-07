@@ -1,4 +1,4 @@
-#Helmet-detection-with-YOLO-v3
+# Helmet-detection-with-YOLO-v3
 A simple YOLO model to detect helmeted and helmetless bikers in an image, video, and realtime.
 
 #### Training 
@@ -15,7 +15,7 @@ A simple YOLO model to detect helmeted and helmetless bikers in an image, video,
 #### set path 
 Model changes can be input on lines 20,110,207,285.
 
-###Test result 
+### Test result 
 
 
 
