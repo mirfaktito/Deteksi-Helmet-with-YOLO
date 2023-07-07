@@ -15,7 +15,4 @@ A simple YOLO model to detect helmeted and helmetless bikers in an image, video,
 #### set path 
 Model changes can be input on lines 20,110,207,285.
 
-Test result 
-![img1] (https://github.com/mirfaktito/Deteksi-Helmet-with-YOLO/blob/main/Non_helmet.jpg)
-![img2] (https://github.com/mirfaktito/Deteksi-Helmet-with-YOLO/blob/main/Helmet.jpg)
 
